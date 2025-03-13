@@ -1,0 +1,21 @@
+# Python-related files
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Virtual environment
+.env
+venv/
+.venv/
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Docker
+*.tar
+Dockerfile
+
+# Logs and data
+*.log
+*.csv
